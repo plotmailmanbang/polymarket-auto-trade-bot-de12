@@ -1,4 +1,4 @@
-# 
+# Polymarket smart Strategy: leverage-trading & market-making is the best Polymarket strategy, featuring leverage-trading and market-making. Smart, fast, and optimized for trading
 
 
 
